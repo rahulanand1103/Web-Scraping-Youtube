@@ -36,9 +36,9 @@ Category youtube video belong to
 Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
 
-1.Python 3
-2.BeautifulSoup
-3.Pandas
+1.Python 3 <br>
+2.BeautifulSoup <br>
+3.Pandas <br>
 
 Authors
 Rahul Anand
